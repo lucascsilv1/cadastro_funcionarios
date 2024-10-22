@@ -37,8 +37,8 @@ Antes de executar a aplicação, é necessário ter o Python instalado em sua m�
 ### 1. Clone este repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_DIRETORIO>
+git clone https://github.com/lucascsilv1/cadastro_funcionarios.git
+cd cadastro_funcionarios
 ```
 
 ### 2. Crie e ative um ambiente virtual (opcional):
