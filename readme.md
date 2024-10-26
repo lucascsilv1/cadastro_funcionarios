@@ -83,7 +83,4 @@ Você pode testar as operações disponíveis na API através da interface Swagg
 
 Sinta-se à vontade para contribuir com melhorias ou correções. 
 
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
